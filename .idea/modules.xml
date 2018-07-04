@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/Exam/.idea/Exam.iml" filepath="$USER_HOME$/Desktop/Exam/.idea/Exam.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/bj1805blog/.idea/bj1805blog.iml" filepath="$USER_HOME$/Desktop/bj1805blog/.idea/bj1805blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/blogflask.iml" filepath="$PROJECT_DIR$/.idea/blogflask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../imagefind/.idea/imagefind.iml" filepath="$PROJECT_DIR$/../imagefind/.idea/imagefind.iml" />
+    </modules>
+  </component>
+</project>
